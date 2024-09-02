@@ -3,7 +3,7 @@ This project is a simple Snake Game built using Flask for the backend and JavaSc
 
 ![Architecture Diagram](ArchitectureDiagram.png)
 
-###webapplication running at
+### webapplication running at
 http://16.171.110.132:5000/
 
 ### WebApp
