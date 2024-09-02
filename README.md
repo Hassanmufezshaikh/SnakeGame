@@ -1,8 +1,10 @@
 # SnakeGame
-
 This project is a simple Snake Game built using Flask for the backend and JavaScript for the frontend. The game is deployed using Docker and can be build,tested and deployed using Jenkins Pipeline.
 
 ![Architecture Diagram](ArchitectureDiagram.png)
+
+###webapplication running at
+http://16.171.110.132:5000/
 
 ### WebApp
 ![Snake Game WebUI](webapp.png)
